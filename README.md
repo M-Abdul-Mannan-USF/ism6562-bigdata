@@ -2,6 +2,9 @@
 The course will cover data management and analytics for businesses using various big data
 technologies, such as NoSQL databases, distributed file systems, MapReduce, and Spark.
 
+In our increasingly connected world, the sheer volume of data produced by social media, Internet of Things (IoT) sensors, and countless digital platforms has fundamentally transformed how businesses operate. Companies today must manage enormous quantities of information—often reaching petabytes or more—which demands innovative technologies and methodologies to transform raw data into meaningful strategic insights. Conventional database systems and analysis methods, while once highly effective, are no longer adequate for organizations aiming to extract valuable intelligence from such extensive datasets.
+This course aims to provide students with the expertise and practical abilities needed to handle, process, and examine large-scale data using contemporary big data technologies. Participants will develop hands-on proficiency with the tools and platforms that empower data-driven decision-making across industry-leading companies. The curriculum is organized into two major sections. The first section explores big data storage solutions, covering NoSQL databases and distributed architectures necessary for handling enormous volumes of unstructured and semi-structured information. The second section examines big data processing platforms, offering comprehensive coverage of Hadoop, MapReduce, and Spark—critical technologies for analyzing massive datasets efficiently. Students will complete practical assignments that mirror real-world challenges, enabling them to create and deploy scalable big data systems within a business environment.
+
 
 By the end of this course, students will:
 
